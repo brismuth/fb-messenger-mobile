@@ -1,11 +1,11 @@
 /* Message bubbles */
 div[aria-label='Messages'] div div div div div div {
-  font-size: 26px;
+  font-size: 18px;
 }
 
 /* poster names */
 div[aria-label='Messages'] div div div div h5 {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 /* action buttons */
@@ -17,7 +17,7 @@ div[aria-label='Messages'] div div div div span span {
 div[aria-label='New message'] div div div div div div div div[style="white-space: pre-wrap;"],
 div[aria-label='New message'] span[data-text="true"],
 div[aria-label='New message'] br[data-text="true"] {
-  font-size:22px;
+  font-size:16px;
 }
 
 /* message sidebar and titles */
